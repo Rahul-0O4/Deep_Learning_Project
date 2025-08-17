@@ -9,18 +9,18 @@ Dataset
 https://www.kaggle.com/datasets/hamzahabib47/brain-cancer-detection-mri-images
 
 # Classes:
-1 → Brain tumor present
-0 → Brain tumor absent
+* 1 → Brain tumor present
+* 0 → Brain tumor absent
 
 # Data is split into:
-70% Training
-15% Validation
-15% Testing
+* 70% Training
+* 15% Validation
+* 15% Testing
 
 # Libraries
-Python
-numpy
-pandas
-Matplotlib / Seaborn
-scikit-learn
-os
+* Python
+* numpy
+* pandas
+* Matplotlib / Seaborn
+* scikit-learn
+* os
