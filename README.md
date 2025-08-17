@@ -5,7 +5,9 @@ This project implements a Deep Learning pipeline for Brain Tumor Detection and C
 The workflow covers data preprocessing, augmentation, model training, evaluation, and visualization to provide a robust solution for medical imaging applications.
 Dataset
 
-# Source: https://www.kaggle.com/datasets/hamzahabib47/brain-cancer-detection-mri-images
+# Source: 
+https://www.kaggle.com/datasets/hamzahabib47/brain-cancer-detection-mri-images
+
 Classes:
 yes → Brain tumor present
 no → Brain tumor absent
