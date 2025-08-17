@@ -8,9 +8,9 @@ Dataset
 # Source: 
 https://www.kaggle.com/datasets/hamzahabib47/brain-cancer-detection-mri-images
 
-Classes:
-yes → Brain tumor present
-no → Brain tumor absent
+# Classes:
+1 → Brain tumor present
+0 → Brain tumor absent
 
 # Data is split into:
 70% Training
