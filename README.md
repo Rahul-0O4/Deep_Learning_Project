@@ -24,3 +24,7 @@ https://www.kaggle.com/datasets/hamzahabib47/brain-cancer-detection-mri-images
 * Matplotlib / Seaborn
 * scikit-learn
 * os
+
+# Activation Function
+* relu
+* sigmoid
